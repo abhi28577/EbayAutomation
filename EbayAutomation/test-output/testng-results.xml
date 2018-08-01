@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="326007" started-at="2018-07-31T10:12:46Z" finished-at="2018-07-31T10:18:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="326007" started-at="2018-07-31T10:12:46Z" finished-at="2018-07-31T10:18:12Z">
+      <class name="com.ebay.qa.testset.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="15956" started-at="2018-07-31T10:12:46Z" finished-at="2018-07-31T10:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateUsernameDisplayTest()[pri:1, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="ValidateUsernameDisplayTest" duration-ms="113" started-at="2018-07-31T10:13:02Z" finished-at="2018-07-31T10:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateUsernameDisplayTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="teardown" is-config="true" duration-ms="829" started-at="2018-07-31T10:13:02Z" finished-at="2018-07-31T10:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="14668" started-at="2018-07-31T10:13:52Z" finished-at="2018-07-31T10:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateSavedLinkTextTest()[pri:2, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="ValidateSavedLinkTextTest" duration-ms="130" started-at="2018-07-31T10:14:07Z" finished-at="2018-07-31T10:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateSavedLinkTextTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="teardown" is-config="true" duration-ms="1355" started-at="2018-07-31T10:14:07Z" finished-at="2018-07-31T10:14:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="26583" started-at="2018-07-31T10:15:01Z" finished-at="2018-07-31T10:15:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateFashionLinkTextTest()[pri:3, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="ValidateFashionLinkTextTest" duration-ms="174" started-at="2018-07-31T10:15:27Z" finished-at="2018-07-31T10:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateFashionLinkTextTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="teardown" is-config="true" duration-ms="752" started-at="2018-07-31T10:15:28Z" finished-at="2018-07-31T10:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="31502" started-at="2018-07-31T10:15:28Z" finished-at="2018-07-31T10:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateMotorsLinkTextTest()[pri:4, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="ValidateMotorsLinkTextTest" duration-ms="202" started-at="2018-07-31T10:16:00Z" finished-at="2018-07-31T10:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateMotorsLinkTextTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="teardown" is-config="true" duration-ms="798" started-at="2018-07-31T10:16:00Z" finished-at="2018-07-31T10:16:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="16442" started-at="2018-07-31T10:16:01Z" finished-at="2018-07-31T10:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateHomeGardenLinkTextTest()[pri:5, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="ValidateHomeGardenLinkTextTest" duration-ms="223" started-at="2018-07-31T10:16:17Z" finished-at="2018-07-31T10:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateHomeGardenLinkTextTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="teardown" is-config="true" duration-ms="808" started-at="2018-07-31T10:16:17Z" finished-at="2018-07-31T10:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="20462" started-at="2018-07-31T10:16:18Z" finished-at="2018-07-31T10:16:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateElectronicsLinkTextTest()[pri:6, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="ValidateElectronicsLinkTextTest" duration-ms="291" started-at="2018-07-31T10:16:39Z" finished-at="2018-07-31T10:16:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateElectronicsLinkTextTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="teardown" is-config="true" duration-ms="912" started-at="2018-07-31T10:16:39Z" finished-at="2018-07-31T10:16:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="19991" started-at="2018-07-31T10:16:40Z" finished-at="2018-07-31T10:17:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateSportsLinkTextTest()[pri:7, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="ValidateSportsLinkTextTest" duration-ms="284" started-at="2018-07-31T10:17:00Z" finished-at="2018-07-31T10:17:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateSportsLinkTextTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="teardown" is-config="true" duration-ms="944" started-at="2018-07-31T10:17:00Z" finished-at="2018-07-31T10:17:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="12573" started-at="2018-07-31T10:17:01Z" finished-at="2018-07-31T10:17:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateLiquorGroceryLinkTextTest()[pri:8, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="ValidateLiquorGroceryLinkTextTest" duration-ms="453" started-at="2018-07-31T10:17:14Z" finished-at="2018-07-31T10:17:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLiquorGroceryLinkTextTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="teardown" is-config="true" duration-ms="962" started-at="2018-07-31T10:17:14Z" finished-at="2018-07-31T10:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="12252" started-at="2018-07-31T10:17:15Z" finished-at="2018-07-31T10:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateHealthBeautyLinkTextTest()[pri:9, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="ValidateHealthBeautyLinkTextTest" duration-ms="476" started-at="2018-07-31T10:17:27Z" finished-at="2018-07-31T10:17:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateHealthBeautyLinkTextTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="teardown" is-config="true" duration-ms="1018" started-at="2018-07-31T10:17:28Z" finished-at="2018-07-31T10:17:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="13161" started-at="2018-07-31T10:17:29Z" finished-at="2018-07-31T10:17:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateToysMediaLinkTextTest()[pri:10, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="ValidateToysMediaLinkTextTest" duration-ms="560" started-at="2018-07-31T10:17:42Z" finished-at="2018-07-31T10:17:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateToysMediaLinkTextTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="teardown" is-config="true" duration-ms="869" started-at="2018-07-31T10:17:43Z" finished-at="2018-07-31T10:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="12139" started-at="2018-07-31T10:17:44Z" finished-at="2018-07-31T10:17:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateCollectablesLinkTextTest()[pri:11, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="ValidateCollectablesLinkTextTest" duration-ms="590" started-at="2018-07-31T10:17:56Z" finished-at="2018-07-31T10:17:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCollectablesLinkTextTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="teardown" is-config="true" duration-ms="884" started-at="2018-07-31T10:17:56Z" finished-at="2018-07-31T10:17:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="setUp" is-config="true" duration-ms="13708" started-at="2018-07-31T10:17:57Z" finished-at="2018-07-31T10:18:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateDealsLinkTextTest()[pri:12, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="ValidateDealsLinkTextTest" duration-ms="602" started-at="2018-07-31T10:18:11Z" finished-at="2018-07-31T10:18:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDealsLinkTextTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.HomePageTest@e25b2fe]" name="teardown" is-config="true" duration-ms="869" started-at="2018-07-31T10:18:11Z" finished-at="2018-07-31T10:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ebay.qa.testset.HomePageTest -->
+      <class name="com.ebay.qa.testset.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.LoginPageTest@754ba872]" name="setUp" is-config="true" duration-ms="6280" started-at="2018-07-31T10:13:03Z" finished-at="2018-07-31T10:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginPageTitleTest()[pri:1, instance:com.ebay.qa.testset.LoginPageTest@754ba872]" name="LoginPageTitleTest" duration-ms="27" started-at="2018-07-31T10:13:10Z" finished-at="2018-07-31T10:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.LoginPageTest@754ba872]" name="teardown" is-config="true" duration-ms="1278" started-at="2018-07-31T10:13:10Z" finished-at="2018-07-31T10:13:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.LoginPageTest@754ba872]" name="setUp" is-config="true" duration-ms="11610" started-at="2018-07-31T10:14:08Z" finished-at="2018-07-31T10:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HomePageDisplayTest()[pri:2, instance:com.ebay.qa.testset.LoginPageTest@754ba872]" name="HomePageDisplayTest" duration-ms="6018" started-at="2018-07-31T10:14:20Z" finished-at="2018-07-31T10:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageDisplayTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.LoginPageTest@754ba872]" name="teardown" is-config="true" duration-ms="753" started-at="2018-07-31T10:14:26Z" finished-at="2018-07-31T10:14:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ebay.qa.testset.LoginPageTest -->
+      <class name="com.ebay.qa.testset.ProductPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.ProductPageTest@146ba0ac]" name="setUp" is-config="true" duration-ms="15849" started-at="2018-07-31T10:13:11Z" finished-at="2018-07-31T10:13:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="DisplayProduct1()[pri:1, instance:com.ebay.qa.testset.ProductPageTest@146ba0ac]" name="DisplayProduct1" duration-ms="24680" started-at="2018-07-31T10:13:27Z" finished-at="2018-07-31T10:13:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DisplayProduct1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.ProductPageTest@146ba0ac]" name="teardown" is-config="true" duration-ms="926" started-at="2018-07-31T10:13:51Z" finished-at="2018-07-31T10:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.qa.testset.ProductPageTest@146ba0ac]" name="setUp" is-config="true" duration-ms="12556" started-at="2018-07-31T10:14:27Z" finished-at="2018-07-31T10:14:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="DisplayProduct2()[pri:2, instance:com.ebay.qa.testset.ProductPageTest@146ba0ac]" name="DisplayProduct2" duration-ms="20497" started-at="2018-07-31T10:14:39Z" finished-at="2018-07-31T10:15:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DisplayProduct2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.qa.testset.ProductPageTest@146ba0ac]" name="teardown" is-config="true" duration-ms="892" started-at="2018-07-31T10:15:00Z" finished-at="2018-07-31T10:15:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ebay.qa.testset.ProductPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

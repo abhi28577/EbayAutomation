@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 44, Failures: 2, Errors: 0, Skipped: 40, Time elapsed: 40.558 s <<< FAILURE! - in TestSuite
+setUp(com.ebay.qa.testset.HomePageTest)  Time elapsed: 3.698 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Tried to run command without establishing a connection
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'Abhisheks-MacBook-Pro.local', ip: '192.168.2.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 715, moz:profile: /var/folders/mw/x9rrqd4914q..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 17.6.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+	at com.ebay.qa.testset.HomePageTest.setUp(HomePageTest.java:29)
+
+setUp(com.ebay.qa.testset.ProductPageTest)  Time elapsed: 3.698 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Tried to run command without establishing a connection
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'Abhisheks-MacBook-Pro.local', ip: '192.168.2.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.5', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 715, moz:profile: /var/folders/mw/x9rrqd4914q..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 17.6.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+*** Element info: {Using=xpath, value=//input[@name='userid']}
+	at com.ebay.qa.testset.ProductPageTest.setUp(ProductPageTest.java:31)
+
